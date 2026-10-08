@@ -1,0 +1,17 @@
+{
+  "name": "matching-engine-cypress-assignment",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Cypress automation solution for the Matching Engine website.",
+  "scripts": {
+    "test": "cypress run --browser chrome",
+    "test:headed": "cypress run --browser chrome --headed",
+    "cypress:open": "cypress open"
+  },
+  "devDependencies": {
+    "cypress": "^15.3.0"
+  },
+  "allowScripts": {
+    "cypress@15.21.1": true
+  }
+}
