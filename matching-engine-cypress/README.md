@@ -8,11 +8,11 @@ Automation Technical Assessment / Matching Engine.
 - JavaScript
 - Google Chrome
 
-## Automated scenarios
+## Scenarios Automated
 
 ### 1. Validate Solutions menu
 
-The test:
+The Test:
 1. Opens `https://www.matchingengine.com/`
 2. Expands **Solutions** in the header.
 3. Verifies the following Solutions are displayed:
@@ -25,7 +25,7 @@ The test:
 
 ### 2. Validate Distribution Processing
 
-The test:
+The Test:
 1. Expands **Solutions**.
 2. Clicks **Distribution processing**.
 3. Verifies navigation to the Distribution Processing page.
@@ -68,7 +68,7 @@ npm run test:headed
 npm run cypress:open
 ```
 
-Then select the E2E test and choose Chrome.
+Then select the E2E Test and choose Chrome.
 
 ## Project structure
 
