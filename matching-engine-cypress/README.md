@@ -1,6 +1,6 @@
 # Matching Engine - Cypress Automation
 
-Automation solution for the Spanish Point / Matching Engine assessment.
+Automation Technical Assessment / Matching Engine.
 
 ## Technology
 
